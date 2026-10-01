@@ -45,5 +45,4 @@ Date, Buyer, Department, and Delivery Period slicers on both pages.
 2. Open it in Power BI Desktop
 3. Use the slicers to explore the data
 
-## Author
-Your Name | [LinkedIn](your-linkedin-link)
+
